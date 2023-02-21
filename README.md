@@ -12,4 +12,3 @@ Para esse projeto foi usado o protótipo de um aplicativo ficticio de podcast.
 
 Para esse projeto foi usado o site [SwagLabs](https://www.saucedemo.com/). O SwagLabs é bastante utilizado na prática relacionada a testes e qualidade de software.
 
-![Login](assets\swaglabs.png)
